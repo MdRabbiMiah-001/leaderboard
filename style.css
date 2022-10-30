@@ -19,6 +19,12 @@ h3{
     margin-top: 30px;
     margin-bottom: 15px;
 }
+.top-player{
+    margin-bottom: 40px;
+}
+.top-blog{
+    margin-top: 80px;
+}
 .row .photo{
     margin-top: 15px;
     margin-bottom: 10px;
@@ -62,4 +68,20 @@ h3{
     height: 0px;
     border: 1px solid #D1D1D1;
     position: absolute;
+}
+.star{
+    width: 14px;
+    height: 10px;
+}
+.clock{
+    width: 20px;
+    height: 20px;
+    margin-right: 1%;
+}
+.clock-box{
+    width: 90px;
+    height: 25px;
+    background-color: #FFE4E8;
+    border-radius: 20px;
+    padding-left: 7px;
 }
